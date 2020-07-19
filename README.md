@@ -34,3 +34,11 @@ Features-:
 
 3.)Character/Word Counter
   Character/Word Counter at bottom
+ 
+ 
+ 
+For compressing all the files into a single file I used Nsis software package https://nsis.sourceforge.io/Download 
+
+
+
+For converting  the .py file  to .exe file  watch this youtube video https://www.youtube.com/watch?v=UZX5kH72Yx4 
