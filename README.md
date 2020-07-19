@@ -1,4 +1,4 @@
-# Software-Ready-to-run-text-editor-using-python-and-tkinter
+# Ready-to-run-Software-A-text-editor-using-python-and-tkinter
 Text-Editor-Python
 Text Editor using tkinter module from python
 Features-:
